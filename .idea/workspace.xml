@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2399a3b9-b724-43ae-bbd1-e4ee8ce31416" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myMap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="js_functional.iws" />
@@ -105,8 +104,8 @@
       <file leaf-file-name="myMap.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myMap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16203703" vertical-offset="0" max-vertical-offset="648">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.046296295" vertical-offset="0" max-vertical-offset="648">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -161,7 +160,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
+    <option name="x" value="143" />
     <option name="y" value="22" />
     <option name="width" value="921" />
     <option name="height" value="1056" />
@@ -326,7 +325,13 @@
       <option name="project" value="LOCAL" />
       <updated>1407891206967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="7 to go">
+      <created>1407893384250</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1407893384250</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -350,12 +355,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="257" y="22" width="921" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="143" y="22" width="921" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27489626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32883817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27489626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908705" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -391,7 +396,8 @@
     <MESSAGE value="cool webstorm9!!!" />
     <MESSAGE value="keep going" />
     <MESSAGE value="8 to go" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 to go" />
+    <MESSAGE value="7 to go" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 to go" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -535,8 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myMap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16203703" vertical-offset="0" max-vertical-offset="648">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.046296295" vertical-offset="0" max-vertical-offset="648">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
